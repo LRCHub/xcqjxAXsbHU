@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "I",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-01T04:13:08.790232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/04_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/05_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/06_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/07_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/08_I_Ain't_Worried_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_[feat._Chris_Staple_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Can't Dance - Remastered 2007",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/11_I_Can't_Dance_-_Remastered_2007_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/12_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker feat. Julie Bergan",
+      "has_synced": true,
+      "path": "select/13_I_Don't_Wanna_Go_Alan_Walker_feat._Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker;Julie Bergan",
+      "has_synced": true,
+      "path": "select/14_I_Don't_Wanna_Go_Alan_Walker;Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd feat. Daft Punk",
+      "has_synced": true,
+      "path": "select/15_I_Feel_It_Coming_The_Weeknd_feat._Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Hope (feat. Charlie Puth)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/16_I_Hope_(feat._Charlie_Puth)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/17_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I can't say",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_I_can't_say_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "I know",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_02_I_know_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "I Love You",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_03_I_Love_You_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "I Wish",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_04_I_Wish_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "I Am...",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_05_I_Am..._YUI.txt"
+    }
+  ]
+}
