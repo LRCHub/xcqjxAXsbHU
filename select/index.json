@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "I",
   "base_artist": "BUMP OF CHICKEN",
-  "createdAt": "2026-03-19T07:59:18.517523Z",
+  "createdAt": "2026-03-22T05:36:04.182941Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -153,18 +153,18 @@
       "source": "localdb",
       "title": "I",
       "artist": "BUMP OF CHICKEN",
-      "has_synced": false,
-      "path": "select/localdb_01_I_BUMP_OF_CHICKEN.txt",
-      "repo_name": "xcqjxAXsbHU"
+      "has_synced": true,
+      "path": "select/localdb_01_I_BUMP_OF_CHICKEN.lrc",
+      "repo_name": "4Sd3iIdM4Co"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "I",
       "artist": "BUMP OF CHICKEN",
-      "has_synced": true,
-      "path": "select/localdb_02_I_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "B--iJ2pNvLU"
+      "has_synced": false,
+      "path": "select/localdb_02_I_BUMP_OF_CHICKEN.txt",
+      "repo_name": "xcqjxAXsbHU"
     },
     {
       "id": "localdb_3",
@@ -173,7 +173,7 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": true,
       "path": "select/localdb_03_I_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "R9qirjL3o-I"
+      "repo_name": "B--iJ2pNvLU"
     },
     {
       "id": "localdb_4",
@@ -182,7 +182,7 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": true,
       "path": "select/localdb_04_I_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "4Sd3iIdM4Co"
+      "repo_name": "R9qirjL3o-I"
     },
     {
       "id": "localdb_5",
