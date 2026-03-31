@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "I",
   "base_artist": "BUMP OF CHICKEN",
-  "createdAt": "2026-03-29T12:35:24.508265Z",
+  "createdAt": "2026-03-31T03:27:12.031976Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,7 +155,7 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": true,
       "path": "select/localdb_01_I_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "H6bjIChUx2k"
+      "repo_name": "xcqjxAXsbHU"
     },
     {
       "id": "localdb_2",
@@ -164,7 +164,7 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": true,
       "path": "select/localdb_02_I_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "xcqjxAXsbHU"
+      "repo_name": "H6bjIChUx2k"
     },
     {
       "id": "localdb_3",
